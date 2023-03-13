@@ -1,0 +1,38 @@
+Section {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(216, 146, 146);
+}
+.name1 {
+    width: 20%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+.name1,text {
+    background-color: indianred;
+    height: 200px;
+    border-radius: 5px;
+    text-align: center;
+}
+.name2 {
+    width: 20%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 3%
+}
+.name2,text {
+    background-color: indianred;
+    height: 200px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#buttonLink {
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 10px 5px;
+    color: white;
+}
+
